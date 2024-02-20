@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 8bd860eb086658e419a0213c3213ede4
+  productGUID: f997fc727600e8e4d9a593e2ef8aee8c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Trash Flight
+  productName: Flight Game
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -818,14 +818,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Trash Flight
+  metroPackageName: Flight Game
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Trash Flight
+  metroApplicationDescription: Flight Game
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -893,10 +893,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 0ab069b8-5d7b-4b34-a0f7-cea7280b05f7
+  cloudProjectId: 8fc3d1fe-9ce1-4e49-adc5-fe609d62ab7c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Trash Flight
+  projectName: Flight Game
   organizationId: m42977789
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
